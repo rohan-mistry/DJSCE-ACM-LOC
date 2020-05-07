@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   
-  <img src="assets/images/acm-logo2.png" alt="Logo" width="100" height="100">
+  <img src="assets/images/acm-logo2.png" alt="Logo" width="150" height="150">
   <h1 align="center">💻DJSCE ACM LOC 2.0</h1>
     <br/>
  
